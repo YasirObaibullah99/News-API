@@ -1,0 +1,25 @@
+*{margin: 0;
+padding: 0;}
+/*  .navbar-brand{
+background-color: red; 
+    color: aquamarine;
+} */
+/* .badge-badge-secondary{
+     background-color: red;
+}  */
+.nav-item-active{
+    align-items: center;
+    
+    
+}
+/* nav ul li a:hover{ 
+    font-weight: bolder;
+} */
+footer{
+    height: 15vh;
+    /* background-color: black;  */
+    color: black;
+    font-family: 'Lato', sans-serif;
+    position: relative;
+    bottom: -150px;
+}
