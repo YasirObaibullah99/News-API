@@ -24,5 +24,5 @@ let suggestions = [
     "linkedin",
     "cricbuzz",
     "google",
-    "top tech news",
+    "top tech news"
 ];
